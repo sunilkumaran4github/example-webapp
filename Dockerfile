@@ -1,3 +1,4 @@
+#docker runtime container build
 FROM java:8-alpine
 MAINTAINER Your Name <you@example.com>
 
